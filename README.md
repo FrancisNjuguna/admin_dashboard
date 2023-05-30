@@ -1,7 +1,7 @@
 # admin_dashboard
 MERN STACK ADMIN DASHBOARD).
 
-#REAmCTJS, NODEJS, EXPRESS AND MONGODB
+#REACTJS, NODEJS, EXPRESS AND MONGODB
 h
 # Getting Started with Create React App
 
